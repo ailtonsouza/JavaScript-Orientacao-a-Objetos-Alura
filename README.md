@@ -1,5 +1,7 @@
-# Projeto desenvolvido como parte do curso orientação a objetos em javascript da Alura.
+# Orientação a objetos em javascript.
 
-Tecnologias usadas:
+Projeto desenvolvido como parte do curso orientação a objetos em javascript da Alura
+
+### Tecnologias usadas:
 
 Javascript
