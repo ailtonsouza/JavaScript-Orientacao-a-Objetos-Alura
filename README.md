@@ -2,6 +2,7 @@
 
 Projeto desenvolvido como parte do curso orientação a objetos em javascript da Alura
 
-### Tecnologias usadas:
+### Tecnologias/framewroks utilizados:
 
-Javascript
+1. Node.js
+2. Javascript
